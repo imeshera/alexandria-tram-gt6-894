@@ -1,0 +1,7 @@
+# third-party reference photos and images derived from them (see references/SOURCES.md)
+references/images/
+.DS_Store
+__pycache__/
+*.pyc
+# compiled lettering tool
+tools/lettering/text2svg
